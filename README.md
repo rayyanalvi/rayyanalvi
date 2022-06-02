@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rayyan Alvi.
-- 👀 I’m highly interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning the loss functions and gradient descent and the ways to reduce the loss.
+- 👀 I’m highly interested in IoT and Machine Learning.
+- 🌱 I’m currently learning the Esp32, STM32 and Raspberry Pi.
 - 💞️ I’m looking to collaborate on real time data driven projects.
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/muhammad-rayyan-alvi/
 
