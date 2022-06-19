@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Rayyan Alvi.
+- 👋 AOA, I’m Muhammad Rayyan Alvi.
 - 👀 I’m highly interested in IoT and Machine Learning.
 - 🌱 I’m currently learning the Esp32, STM32 and Raspberry Pi.
 - 💞️ I’m looking to collaborate on real time data driven projects.
