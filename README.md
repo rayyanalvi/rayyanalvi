@@ -1,4 +1,4 @@
-- 👋 AOA, I’m Muhammad Rayyan Alvi.
+- 👋 I’m Muhammad Rayyan Alvi.
 - 👀 I’m highly interested in IoT and Machine Learning.
 - 🌱 I’m currently working on controllers and embedded linux.
 - 💞️ I’m looking to collaborate on real time data driven projects.
