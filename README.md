@@ -1,6 +1,6 @@
 - 👋 I’m Muhammad Rayyan Alvi.
-- 👀 Passionate for IoT and Machine Learning.
-- 🌱 I’m currently working on controllers and embedded linux.
+- 👀 Passionate for Data Analytics.
+- 🌱 I’m currently pursuing Google Professional Data Analytics Certificate.
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/muhammad-rayyan-alvi/
 
 <!---
